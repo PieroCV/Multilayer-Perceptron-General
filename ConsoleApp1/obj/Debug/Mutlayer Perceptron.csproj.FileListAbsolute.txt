@@ -1,0 +1,7 @@
+C:\Users\piaca\Desktop\Programando\C#\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\piaca\Desktop\Programando\C#\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\piaca\Desktop\Programando\C#\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\piaca\Desktop\Programando\C#\ConsoleApp1\ConsoleApp1\obj\Debug\Mutlayer Perceptron.csproj.CoreCompileInputs.cache
+C:\Users\piaca\Desktop\Programando\C#\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\piaca\Desktop\Programando\C#\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\piaca\Desktop\Programando\C#\ConsoleApp1\ConsoleApp1\obj\Debug\Mutlayer Perceptron.csprojResolveAssemblyReference.cache
